@@ -30,4 +30,6 @@ $$MB = \frac{TotalBytes - AvailableBytes}{1024 \times 1024}$$
 | 深色模式 | 亮色模式 |
 | --- | --- |
 |  |  |
-| ** |  |
+| <img width="463" height="1009" alt="image" src="https://github.com/user-attachments/assets/810252b7-113d-46ba-8839-e61f4768afd0" />
+ | <img width="463" height="1009" alt="image" src="https://github.com/user-attachments/assets/907aa689-9284-417d-b853-3576ea6b84fb" />
+ |
